@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=0c9df7&center=true&vCenter=true&width=450&lines=Web+Developer;" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=0c9df7&center=true&vCenter=true&width=450&lines=Frontend+Web+Developer;" alt="Typing SVG" /></a>
 </p>
 
 ### 💡 About me
@@ -23,6 +23,9 @@
 <img align="left" alt="HTML 5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS 3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?&style=for-the-badge&logo=PHP&logoColor=010101" />
+<img align="left" alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?&style=for-the-badge&logo=CodeIgniter&logoColor=010101" />
+
 </div>
 <br/>
 <br/>
@@ -32,6 +35,10 @@
 <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img align="left" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?&style=for-the-badge&logo=Vercel&logoColor=white" />
+<img align="left" alt="Vercel" src="https://img.shields.io/badge/Firebase-DD2C00?&style=for-the-badge&logo=Firebase&logoColor=white" />
+<img align="left" alt="Laravel" src="https://img.shields.io/badge/Laravel-010101?&style=for-the-badge&logo=Laravel&logoColor=#FF2D20" />
+
 </div>
 <br/>
 <br/>
