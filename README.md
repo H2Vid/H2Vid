@@ -60,6 +60,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/david-sitompul-94a71333b" target="blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-#164edb.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0078D6?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
